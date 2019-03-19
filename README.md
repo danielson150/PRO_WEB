@@ -1,8 +1,10 @@
 
 # SOBRE MIM
-### Nome: Danielson Alencar
-### Idade: 25 anos
-### Email: danielson150@gmail.com
+#### Nome: Danielson Alencar
+#### Idade: 25 anos
+#### Email: danielson150@gmail.com
+#### Cursando Técnico em Informática - IFPI - 4 periodo
+#### Cursando Análise e Desenvolvimento de Sistemas - IFPI - 4 periodo
 
 # Habilidades
 
