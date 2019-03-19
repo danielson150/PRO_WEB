@@ -3,8 +3,8 @@
 #### Nome: Danielson Alencar
 #### Idade: 25 anos
 #### Email: danielson150@gmail.com
-#### Cursando Técnico em Informática - IFPI - 4 periodo
-#### Cursando Análise e Desenvolvimento de Sistemas - IFPI - 4 periodo
+#### Cursando Técnico em Informática - IFPI - 4° periodo
+#### Cursando Análise e Desenvolvimento de Sistemas - IFPI - 3° periodo
 
 # Habilidades
 
@@ -13,16 +13,16 @@
 * JAVA
 * PYTHON
 * Django
-* Wordpress
 * GLPI (SERVICE DESK)
+* Wordpress
 
 # Interesses
-* Desenvolvimento WEB
-* Segurança de Informação
 * Redes de Computadores
+* Desenvolvimento WEB
+* Segurança da Informação
 * Servidores Windows e Linux
 
 # Alguns Projetos
-#### https://pronexsolutions.000webhostapp.com/
-#### https://pronexsolutions.000webhostapp.com/Home%20GLPI%20JAP/index.html
-#### https://pronexsolutions.000webhostapp.com/Site%20PRONEXT/index.html
+#### https://bit.ly/2Fd4rCg
+#### https://bit.ly/2TeJQCt
+#### https://bit.ly/2TKYLcO
