@@ -6,7 +6,7 @@
 
 # Habilidades
 
-### - HTML, CSS, PHP
+#### - HTML, CSS, PHP
 #### - C
 #### - JAVA
 #### - PYTHON
