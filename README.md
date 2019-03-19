@@ -12,3 +12,9 @@
 #### Django
 #### Wordpress
 #### GLPI (SERVICE DESK)
+
+#Interesses
+### Desenvolvimento WEB
+### Segurança de Informação
+### Redes de Computadores
+### Servidores Windows e Linux
